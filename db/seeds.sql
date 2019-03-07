@@ -1,0 +1,1 @@
+INSERT INTO burgers (burger_name) VALUES ('Black and Bleu'), ('Cheddar'), ('Bacon and Barbecue')
